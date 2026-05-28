@@ -1,0 +1,1 @@
+"""MyGame AI bridge package."""
