@@ -5,7 +5,7 @@
 #include "mino.hpp"
 #include "mino_utils.hpp"
 #include "timekeeper.hpp"
-#include "blocksstate.cpp"
+#include "blocksstate.hpp"
 
 bool shouldProfileSearch()
 {
